@@ -67,21 +67,25 @@ Acesse o [código fonte do projeto](https://github.com/seu-usuario/classificador
 
 No terminal, clone o projeto: 
 
-git clone https://github.com/seu-usuario/classificador-heroi
+```
+git clone https://github.com/wkyoshimatsu/ClassificadorDeNivelDeHeroi
+```
 
 Entre na pasta do projeto:
 
+```
 cd classificador-heroi
-
+```
 
 Execute o comando Maven para rodar o projeto:
 
+```
 mvn spring-boot
-
+```
 
 ## :octocat: Desenvolvedores e Contribuintes
 
-| [<img src="https://avatars.githubusercontent.com/u/12345678?v=4" width=115><br><sub>Seu Nome</sub>](https://github.com/seu-usuario) | 
+| [<img src="https://avatars2.githubusercontent.com/u/101765683?v=4" width=115><br><sub>Washington Yoshimatsu</sub>](https://github.com/wkyoshimatsu) | 
 | :---: |
 
 ## :memo: Tarefas em aberto
