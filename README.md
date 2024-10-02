@@ -2,8 +2,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=&message=Java&color=blue&style=for-the-badge&logo=Java"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Maven&color=blue&style=for-the-badge&logo=ApacheMaven"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Spring&color=green&style=for-the-badge&logo=Spring"/>
   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=red&style=for-the-badge"/>
 </p>
 
@@ -42,26 +40,19 @@
 
 ## :file_folder: Acesso ao projeto
 
-Acesse o [código fonte do projeto](https://github.com/seu-usuario/classificador-heroi) ou [baixe o projeto](https://github.com/seu-usuario/classificador-heroi/archive/refs/heads/main.zip).
+Acesse o [código fonte do projeto](https://github.com/wkyoshimatsu/ClassificadorDeNivelDeHeroi) ou [baixe o projeto](https://github.com/wkyoshimatsu/ClassificadorDeNivelDeHeroi/archive/refs/heads/main.zip).
 
 ## :heavy_check_mark: Tecnologias utilizadas
 
 - `Java 17`:
 
   > Linguagem principal usada para desenvolver o projeto, permitindo a manipulação de objetos e controle de fluxo.
-
-- `Maven`:
-
-  > Usado para gerenciar dependências e facilitar o build do projeto.
-
-- `Spring Framework`:
-
-  > Framework usado para construir a aplicação.
+  
 
 ## :books: Pré-requisitos
 
 - Java 17
-- Maven
+- IDE Java
 
 ## :arrow_forward: Como rodar a aplicação
 
@@ -71,17 +62,7 @@ No terminal, clone o projeto:
 git clone https://github.com/wkyoshimatsu/ClassificadorDeNivelDeHeroi
 ```
 
-Entre na pasta do projeto:
-
-```
-cd classificador-heroi
-```
-
-Execute o comando Maven para rodar o projeto:
-
-```
-mvn spring-boot
-```
+Abra o projeto numa IDE Java e execute o comando Run na classe Main.java.
 
 ## :octocat: Desenvolvedores e Contribuintes
 
@@ -92,9 +73,6 @@ mvn spring-boot
 
 :small_blue_diamond: Melhorar o sistema de batalha para incluir diferentes tipos de inimigos e dificuldades;
 
-:small_blue_diamond: Implementar um sistema de habilidades para o herói;
-
-:small_blue_diamond: Adicionar uma interface gráfica para melhor experiência do usuário.
 
 ---
 
